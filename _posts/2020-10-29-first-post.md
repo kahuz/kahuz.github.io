@@ -1,3 +1,8 @@
+---
+title: "Pointer magic for efficient dynamic value representations"
+date: 2020-10-29 20:31:28 -0400
+categories: jekyll update
+---
 # nikic's article
 ## Pointer magic for efficient dynamic value representations
 * nikic의 블로그에 소개된 JavaScript의 실행 속도를 개선할 수 있었던 몇 가지 트릭을 C++을 통해 소개합니다
