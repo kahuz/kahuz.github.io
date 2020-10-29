@@ -6,7 +6,10 @@ categories: jekyll update
 # Pointer magic for efficient dynamic value representations
 * nikic의 블로그에 소개된 JavaScript의 실행 속도를 개선할 수 있었던 몇 가지 트릭을 C++을 통해 소개합니다
 * 이 방법을 이용하면 C에서도 JavaScript와 같은 방식으로 변수 접근이 가능해지며, 이를 통해 유연하고 효과적인 개발 방식을 적용할 수 있습니다
-*  https://nikic.github.io/2012/02/02/Pointer-magic-for-efficient-dynamic-value-representations.html#the-trivial-approach-tagged-unions
+* https://nikic.github.io/2012/02/02/Pointer-magic-for-efficient-dynamic-value-representations.html#the-trivial-approach-tagged-unions
+* 내용은 nikic의 원문에 아주 약간의 내용을 첨부하여 게시하였습니다.
+
+
 ## List
 - ### [The trivial approach: Tagged unions](##-The-trivial-approach:-Tagged-unions)
 - ### [An interlude: Pointer tagging](##-An-interlude:-Pointer-tagging)
