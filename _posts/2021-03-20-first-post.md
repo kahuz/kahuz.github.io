@@ -14,11 +14,11 @@ categories: jekyll update
 - ### .[2. Rendering](###-2.-Rendering)
 - #### .[2-1 Rendering the Screan](####-2-1-Rendering-the-Screan)
 - #### .[2-2 Swapping the Buffers](####-2-2-Swapping-the-Buffers)
-- ### .[3. Release the EGL & OpenGL ES](##-Sample-implementation)
-- #### .[3-1 Releasing EGL Resource](##-A-few-more-considerations)
-- #### .[3-2 Releasing GLES Resource](##-A-few-more-considerations)
-- ## .[4. 결론](##-A-few-more-considerations)
-- ### .[앞서 다룬 OpenGL ES / EGL 개념](##-A-few-more-considerations)
+- ### .[3. Release the EGL & OpenGL ES](##-3.-Release-the-EGL-&-OpenGL-ES)
+- #### .[3-1 Releasing EGL Resource](##3-1-Releasing-EGL-Resource)
+- #### .[3-2 Releasing GLES Resource](##3-2-Releasing-GLES-Resource)
+- ## .[4. 결론](##-4.-결론)
+- ### .[앞서 다룬 OpenGL ES / EGL 개념](###-앞서-다룬-OpenGL-ES-/-EGL-개념)
 
 ## What is EGL ?
 
