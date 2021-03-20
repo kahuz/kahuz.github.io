@@ -5,21 +5,6 @@ categories: jekyll update
 ---
 # Getting started EGL
 
-## List
-- ## [What is EGL ?](##-Wat-is-EGL-?)
-- ## [OpenGL ES 동작 단계](##-OpenGL-ES-동작-단계)
-- ### .[1. Initialize the EGL & OpenGL ES](###-1.-Initialize-the-EGL-&-OpenGL-ES)
-- #### .[1-1 EGL initialize](####-1-1 EGL initialize)
-- #### .[1-2 OpenGL ES initialize](####-1-2-OpenGL-ES-initialize)
-- ### .[2. Rendering](###-2.-Rendering)
-- #### .[2-1 Rendering the Screan](####-2-1-Rendering-the-Screan)
-- #### .[2-2 Swapping the Buffers](####-2-2-Swapping-the-Buffers)
-- ### .[3. Release the EGL & OpenGL ES](##-3.-Release-the-EGL-&-OpenGL-ES)
-- #### .[3-1 Releasing EGL Resource](##3-1-Releasing-EGL-Resource)
-- #### .[3-2 Releasing GLES Resource](##3-2-Releasing-GLES-Resource)
-- ## .[4. 결론](##-4.-결론)
-- ### .[앞서 다룬 OpenGL ES / EGL 개념](###-앞서-다룬-OpenGL-ES-/-EGL-개념)
-
 ## What is EGL ?
 
 `EGL`이란 `native window system`과 `grapic API`를 연결해주는 그래픽 인터페이스를 의미
