@@ -9,17 +9,6 @@ categories: jekyll update
 * https://nikic.github.io/2012/02/02/Pointer-magic-for-efficient-dynamic-value-representations.html#the-trivial-approach-tagged-unions
 * 내용은 nikic의 원문에 아주 약간의 내용을 첨부하여 게시하였습니다.
 
-
-## List
-- ### [The trivial approach: Tagged unions](##-The-trivial-approach:-Tagged-unions)
-- ### [An interlude: Pointer tagging](##-An-interlude:-Pointer-tagging)
-- ### [Storing integers in the pointer](##-Storing-integers-in-the-pointer)
-- ### [Pointers in the NaN-Space](##-Pointers-in-he-NaN-Space)
-- ### [64 bit is a lie](##-64-bit-is-a-lie)
-- ### [Sample implementation](##-Sample-implementation)
-- ### [ A few more considerations](##-A-few-more-considerations)
-
-
 ## The trivial approach: Tagged unions
 자바 스크립트는 동적으로 입력되는 언어이므로 변수 타입과 해당 변수의 값을 저장하는 일종의 "값" 데이터 구조가 필요합니다. 이러한 접근 방식은 태그가 지정된 공용체를 사용하는 것입니다.
 ```cpp
